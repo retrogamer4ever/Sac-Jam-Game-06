@@ -24,3 +24,7 @@ and show the color of who had the most points... Although that final part does s
 Overall I really liked how the game turned out, during the presentation at the end of the jam it got a loud cheer from
 everyone when we were playing it in front of everyone. So I am pretty happy with it :-D I used Flixel to get everything
 going. 
+
+
+
+http://www.meetup.com/gamedeveloper/events/73061042/
